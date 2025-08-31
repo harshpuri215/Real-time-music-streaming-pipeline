@@ -1,0 +1,4 @@
+pyspark==3.4.1
+kafka-python==2.0.2
+google-cloud-pubsub==2.16.1
+snowflake-connector-python==3.0.3
